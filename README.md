@@ -6,6 +6,7 @@
 - 😄 Pronouns: Ele / Dele
 - 🖤🤍💜
 - Aluno do Prof. Gustavo Guanabara
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrelbrj_/)
