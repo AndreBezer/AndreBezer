@@ -1,7 +1,5 @@
 # André Luis 👋
 
-### Estou fazendo o meu primeiro bootcamp com a Digital Innovation One - DIO
-
 - 🌱 Estudando ADS
 - 😄 Pronouns: Ele / Dele
 - 🖤🤍💜
