@@ -3,7 +3,7 @@
 - 🌱 Estudando ADS
 - 😄 Pronouns: Ele / Dele
 - 🖤🤍💜
-- Aluno do Prof. Gustavo Guanabara e o Nelio Alves
+- Aluno do Prof.  Nelio Alves
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
