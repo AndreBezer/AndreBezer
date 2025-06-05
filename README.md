@@ -13,7 +13,8 @@ Desenvolvedor apaixonado por resolver problemas com código e aprender coisas no
 
 ### 🔥 Projetos Destacados  
 - **[Chatbot Interativo](https://github.com/AndreBezer/Telegram-bot-apresentacao)** – Um bot conversacional criado em Python.  
-- **[API de Livros](https://github.com/AndreBezer/Library_API_flask)** – Uma API simples para gerenciar livros.  
+- **[API de Livros](https://github.com/AndreBezer/Library_API_flask)** – Uma API simples para gerenciar livros.
+- **[Bot com API Library](https://github.com/AndreBezer/Library_bot)** - Projeto que mescla o bot do telegram com a API Library
 
 ### 📊 Estatísticas do GitHub  
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=AndreBezer&show_icons=true&theme=radical)  
