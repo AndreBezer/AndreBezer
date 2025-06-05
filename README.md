@@ -1,6 +1,6 @@
 # Olá, eu sou André Luis! 👋  
 
-Desenvolvedor em busca da primeira oportunidade como Trainee/Júnior, apaixonado por resolver problemas com código e aprender coisas novas.  
+Desenvolvedor apaixonado por resolver problemas com código e aprender coisas novas.  
 
 **🎯 Objetivo:** Me tornar um desenvolvedor back-end ou full-stack, contribuindo com projetos desafiadores e crescendo profissionalmente.  
 
