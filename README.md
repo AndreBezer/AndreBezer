@@ -6,7 +6,7 @@ Desenvolvedor apaixonado por resolver problemas com código e aprender coisas no
 
 **📌 Atualmente:**  
 - 🌱 Aprendendo **Python** e aprofundando conhecimentos em **Git/GitHub**  
-- 🔭 Explorando desenvolvimento de APIs e automação  
+- 🔭 Explorando desenvolvimento de APIs e automação com Flask e Telegram
 
 ### 🛠️ Tecnologias e Ferramentas  
 [![Minhas Skills](https://skillicons.dev/icons?i=python,git,github,vscode)](https://skillicons.dev)  
