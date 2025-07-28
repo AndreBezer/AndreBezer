@@ -7,28 +7,11 @@ Desenvolvedor apaixonado por criar soluções eficientes por meio da programaç�
 ### Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=python,flask,git,github,vscode,postman)](https://skillicons.dev)
 
-### Áreas de Conhecimento
-- Desenvolvimento de APIs RESTful
-- Automação de processos
-- Versionamento de código (Git)
-- Integração com plataformas de mensagem
-
 ## 📌 Atualmente
 
 - 🔍 Aprofundando conhecimentos em **Python** para back-end
 - 🏗 Estudando arquitetura de software e padrões de projeto
 - 🤖 Desenvolvendo projetos com Flask e integração Telegram API
-
-## 💻 Projetos Destacados
-
-### [Chatbot Interativo para Telegram](https://github.com/AndreBezer/Telegram-bot-apresentacao)
-Bot conversacional desenvolvido em Python com integração à API do Telegram, demonstrando habilidades em automação e processamento de mensagens.
-
-### [API de Gerenciamento de Livros](https://github.com/AndreBezer/Library_API_flask)
-API RESTful desenvolvida com Flask para CRUD de livros, implementando boas práticas de estruturação e documentação.
-
-### [Integração Bot + API Library](https://github.com/AndreBezer/Library_bot)
-Projeto full-stack que combina o chatbot do Telegram com a API de livros, demonstrando habilidades em integração de sistemas.
 
 ## 📈 Estatísticas GitHub
 
