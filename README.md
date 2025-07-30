@@ -2,10 +2,15 @@
 
 Desenvolvedor apaixonado por criar soluções eficientes por meio da programação, com foco em back-end e arquitetura de software. Comprometido com boas práticas, código limpo e aprendizagem contínua.
 
-## 🛠 Stack Tecnológica
+---
 
-### Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=python,flask,git,github,vscode,postman)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,git,github,vscode,postman" />
+  </a>
+</p>
+
+---
 
 ## 📌 Atualmente
 
@@ -20,4 +25,12 @@ Desenvolvedor apaixonado por criar soluções eficientes por meio da programaç�
 
 ---
 
-📫 **Como me encontrar**: [LinkedIn](https://www.linkedin.com/in/andrebezer/) | [Instagram](https://www.instagram.com/andrelbrj_/)
+📫 **Como me encontrar**: 
+<p align="center">
+  <a href="https://www.instagram.com/andrelbrj_/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/andrebezer/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
