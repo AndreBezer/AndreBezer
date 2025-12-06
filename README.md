@@ -18,10 +18,6 @@ Desenvolvedor apaixonado por criar soluções eficientes por meio da programaç�
 - 🏗 Estudando arquitetura de software e padrões de projeto
 - 🤖 Desenvolvendo projetos com Flask e integração Telegram API
 
-## 📈 Estatísticas GitHub
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=AndreBezer&show_icons=true&theme=radical&hide=issues&count_private=true)  
-
 ---
 
 📫 **Como me encontrar**: 
