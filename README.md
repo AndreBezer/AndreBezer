@@ -21,7 +21,6 @@ Desenvolvedor apaixonado por criar soluções eficientes por meio da programaç�
 ## 📈 Estatísticas GitHub
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=AndreBezer&show_icons=true&theme=radical&hide=issues&count_private=true)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBezer&layout=compact&theme=radical&hide=html,css)
 
 ---
 
