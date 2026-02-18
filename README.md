@@ -1,12 +1,11 @@
 # André Luis | Desenvolvedor Back-End em Formação 👨‍💻
 
-Desenvolvedor apaixonado por criar soluções eficientes por meio da programação, com foco em back-end e arquitetura de software. Comprometido com boas práticas, código limpo e aprendizagem contínua.
-
+Estudante de Desenvolvimento de Sistemas com interesse em backend, foco em aprendizado continuo
 ---
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,git,github,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=python,java,git,vscode,eclipse" />
   </a>
 </p>
 
@@ -14,9 +13,8 @@ Desenvolvedor apaixonado por criar soluções eficientes por meio da programaç�
 
 ## 📌 Atualmente
 
-- 🔍 Aprofundando conhecimentos em **Python** para back-end
-- 🏗 Estudando arquitetura de software e padrões de projeto
-- 🤖 Desenvolvendo projetos com Flask e integração Telegram API
+- 🔍 Aprofundando conhecimentos em **java** para back-end
+- 🏗 Estudando **Introdução a Programação Orientada a Objetos**
 
 ---
 
