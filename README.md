@@ -5,7 +5,7 @@ Estudante de Desenvolvimento de Sistemas com interesse em backend, foco em apren
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,git,vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=python,java,git,vscode,eclipse,flask" />
   </a>
 </p>
 
