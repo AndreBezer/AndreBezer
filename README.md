@@ -15,6 +15,7 @@ Estudante de Desenvolvimento de Sistemas com interesse em backend, foco em apren
 
 - 🔍 Aprofundando conhecimentos em **java** para back-end
 - 🏗 Estudando **Introdução a Programação Orientada a Objetos**
+- 🏗 Estudando **Itaú - Java com Inteligência Artificial - DIO**
 
 ---
 
