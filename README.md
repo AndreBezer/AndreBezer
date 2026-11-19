@@ -14,8 +14,8 @@ Estudante de Desenvolvimento de Sistemas com interesse em backend, foco em apren
 ## 📌 Atualmente
 
 - 🔍 Aprofundando conhecimentos em **java** para back-end
-- 🏗 Estudando **Introdução a Programação Orientada a Objetos**
-- 🏗 Estudando **Itaú - Java com Inteligência Artificial - DIO**
+- 🏗 Estudando **SpringBoot - Com o Prof. Caio - Senai BA**
+- 🏗 Estudando **Banco de Dados e Modelagem -  Com o Prof. Marcos Silva - Senai BA**
 
 ---
 
